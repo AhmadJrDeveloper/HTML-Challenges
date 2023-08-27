@@ -33,13 +33,15 @@ body{
     float: left;
     padding-top: 150px;
     padding-left: 100px;
+
   }
   .header{
     background-image: url("../images/cloud-computing-social-media-banner-hitech-cloud-connection-technology-linkedin-cover-header_508097-625.avif");
-    background-size: 1790px 300px;
+    background-size: 1900px 300px;
     background-repeat: no-repeat;
     height: 300px;
     border: solid 2px red;
+    object-fit: fill;
   }
   .navbar{
     background-color: white;
