@@ -118,7 +118,7 @@ padding-top: 15px;
   line-height: 50px;
   text-align: center;
 }
-.footer input[type=text],input[type=email],textarea{
+.footer input[type=text],input[type=email],textarea,input[type=radio]{
   width: 350px;
   border: 2px solid black;
   border-radius: 10px;
@@ -153,4 +153,7 @@ li a{
 }
 html{
   scroll-behavior: smooth;
+}
+#sug{
+  margin-left: 25px;
 }
